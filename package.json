@@ -1,0 +1,23 @@
+{
+  "name": "good-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trealtye20/Good-readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trealtye20/Good-readme/issues"
+  },
+  "homepage": "https://github.com/trealtye20/Good-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
